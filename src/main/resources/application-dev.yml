@@ -10,3 +10,8 @@ server:
 spring:
   application:
     name: course-schedule-generation-system
+  datasource:
+    url: jdbc:mysql://localhost:3306/course_schedule_generation_system?useSSL=false&autoReconnect=true&characterEncoding=utf8
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 123456
