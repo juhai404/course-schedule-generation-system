@@ -1,0 +1,24 @@
+target/
+/.idea
+!.mvn/wrapper/maven-wrapper.jar
+dgate*.log
+hs*.log
+dgate.jceks
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.mvn
+### Service ###
+###common-cycle-algorithm/
+###key-acs-algorithm/
+###saturation-algorithm-service/
+###split-optimization-algorithm/
+subarea-output-algorithm/
+/.idea/
+.idea/
+/logs
+*.log
+*.gz
